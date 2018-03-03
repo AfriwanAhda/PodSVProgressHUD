@@ -3,8 +3,7 @@
 
 The Motion Weather app use this pod SVProgressHUD. Motion Weather help you to know the weather forecast for the next 8 days from today, input your city and find the weather forecast. Prepare yourself by knowing the weather forecast.
 
-[![Swift 4](https://img.shields.io/badge/Swift-4.0-brightgreen.svg)](https://swift.org)
-[![Platform](https://developer.apple.com/ios/)](https://developer.apple.com/ios/)
+[![Platform](https://img.shields.io/badge/platform-ios-brightgreen.svg)](https://developer.apple.com/ios/)](https://developer.apple.com/ios/)
 [![Version](https://img.shields.io/badge/pod-v1.3.1-blue.svg)](https://cocoapods.org/)
 [![MotionWeather](https://img.shields.io/badge/Motion-Weather-yellow.svg)](https://itunes.apple.com/gm/app/motion-weather/id1332306505?mt=8)
 

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  pod-test
+//  PodSVProgressHUD
 //
 //  Created by Afriwan Ahda on 12/20/17.
 //  Copyright © 2017 Motion Studio. All rights reserved.

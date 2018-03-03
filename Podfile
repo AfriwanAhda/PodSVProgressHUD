@@ -1,6 +1,6 @@
 # platform :ios, '10.0'
 
-target 'pod-test' do
+target 'PodSVProgressHUD' do
   use_frameworks!
 
   pod 'SVProgressHUD'

@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  pod-test
+//  PodSVProgressHUD
 //
 //  Created by Afriwan Ahda on 12/20/17.
 //  Copyright © 2017 Motion Studio. All rights reserved.
@@ -16,8 +16,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         SVProgressHUD.setDefaultMaskType(.black)
         SVProgressHUD.show(withStatus: "Load Data...")
-        
-      
     }
 
     override func didReceiveMemoryWarning() {
@@ -25,7 +23,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
           SVProgressHUD.dismiss()
     }
-
 
 }
 

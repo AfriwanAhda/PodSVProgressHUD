@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:pod-test.xcodeproj">
+      location = "group:/Users/ari/iOSProjects/pod-test/PodSVProgressHUD.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

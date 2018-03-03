@@ -1,9 +1,9 @@
 # PodSVProgressHUD
-[<img src="https://github.com/AfriwanAhda/AfriwanAhda-Wazma/blob/master/app/src/main/res/drawable/google-play-badge.png" width="258.4" height="100" alt="AppStore"/>](https://itunes.apple.com/gm/app/motion-weather/id1332306505?mt=8)
+[<img src="https://github.com/AfriwanAhda/PodSVProgressHUD/blob/master/AppStore.png" width="258.4" height="100" alt="AppStore"/>](https://itunes.apple.com/gm/app/motion-weather/id1332306505?mt=8)
 
 The Motion Weather app use this pod SVProgressHUD. Motion Weather help you to know the weather forecast for the next 8 days from today, input your city and find the weather forecast. Prepare yourself by knowing the weather forecast.
 
-[<img src="https://lh3.googleusercontent.com/Dnw-i0Lesv2sblDbdtmml4VQrASPe-CxdZA_UqGrYi5ZZrPW9GS9e5KLFeHiU6MKCA=h900" width="286.583" height="475" alt="AppStore"/>](https://itunes.apple.com/gm/app/motion-weather/id1332306505?mt=8)
+[<img src="https://github.com/AfriwanAhda/PodSVProgressHUD/blob/master/MotionWeather.png" width="286.583" height="475" alt="AppStore"/>](https://itunes.apple.com/gm/app/motion-weather/id1332306505?mt=8)
 
 # Description
 
